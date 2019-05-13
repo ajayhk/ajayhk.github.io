@@ -20,7 +20,7 @@ Side-projects
    
 Resume
 ------
-[Resume](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/resume.md)   
+[Resume](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/resume.html)   
    
 [PDF version of Resume](https://github.com/ajayhk/ajayhk.github.io/raw/master/pdf/resume_no_addr.pdf)
 
