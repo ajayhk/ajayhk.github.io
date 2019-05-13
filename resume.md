@@ -1,4 +1,6 @@
-#Ajay Harikumar#
+Ajay Harikumar
+============
+   
 
 Email: [ajay (dot) harikumar at gmail dot com]
 
@@ -124,16 +126,13 @@ _CS231n: Convolutional Neural Networks for Visual Recognition_ .  Stanford Onlin
 [https://scholar.google.com/citations?user=eNafY6MAAAAJ&hl=en](https://scholar.google.com/citations?user=eNafY6MAAAAJ&hl=en)
 
 **_Side Projects:_**
-Stock trading algorithms** ranked 17th best returns **among 300 entries at [Quantopian](https://www.quantopian.com/) . 
+Stock trading algorithms** ranked 17th best returns **among 300 entries at [Quantopian](https://www.quantopian.com/)   
 [https://github.com/ajayhk/quant](https://github.com/ajayhk/quant)
 
-Reddit image downloader (github) . 
+Reddit image downloader (github)   
 [https://github.com/ajayhk/reddit-downloader](https://github.com/ajayhk/reddit-downloader)
 
 **_Conferences:_**        Reviewer/contributor to Intel tech conf (**DTTC**), reviewer and organizer for **HiPC**, paper at **VDAT** 2000, talk at **HiPC** 2010, Expert at “Meet the Experts” at **Intel Developer Forum** 2005
-
-**_Recognition:_**        **Two promotions** in 4 years and **excellent ratings** in last 5 reviews (2019). 
-Multiple Dept. recognition awards
 
 **_Github:_**             [https://github.com/ajayhk](https://github.com/ajayhk/)
 
