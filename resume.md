@@ -57,14 +57,14 @@ RNNs/LSTMs, Transformer full-stack bring-up
 **Promoted to Manager** of system software team. Managed team of 8 software engineers + Product manager for two products that did malware detection (Return Oriented Programming/Stack Buffer Overflow attacks) using Control Flow Integrity (CFI) with Binary Translation (BT). One product used by McAfee for identifying malware and feeding into their virus definitions. Other product protects apps incl. Microsoft Office, Google Chrome, Firefox, Acrobat PDF viewer against many Zero-day attacks (e.g.[[3]](#_ftn3)). Detection
 tested on malware in VirusTotal, McAfee DB samples. **Performance overhead of Binary Translation reduced from 3-4x to 10%
 
-*    
+*       
 Tech lead (software dev/perf improvement) for multiple BT projects incl. Android malware detection, h/w BT. Created Perf Framework for identifying performance bottlenecks and regressions (not possible with tools like Intel VTune). **50% memory reduction and 2x perf speedup**
 
-
+ 
 
 #### _Staff Software at Intel (2009-2012)_
 
-*    
+*       
 **Platform Architect** owning Power/Performance for Intel Mobile Platforms (Smartphones, Netbooks, Tablets) 
 
 *       
@@ -164,4 +164,3 @@ Reddit image downloader (github)
     
     
 [Back]({{ https://ajayhk.github.io/ }}/)
-
