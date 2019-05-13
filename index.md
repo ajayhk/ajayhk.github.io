@@ -12,7 +12,7 @@ Side-projects
    
 *   [Reddit Picture Downloader](https://github.com/ajayhk/reddit-downloader)    
    
-*   [Quant algos](https://github.com/ajayhk/quant) on [Quantopian](https://www.quantopian.com/)   
+*   [Quant algos](https://github.com/ajayhk/quant/tree/master/algos) on [Quantopian](https://www.quantopian.com/)   
    
 *   Self Driving Robot   
     This was a project that I did in 2008 or so inspired by DARPA self driving project
@@ -20,9 +20,9 @@ Side-projects
    
 Resume
 ------
-[Resume](https://github.com/ajayhk/ajayhk.github.io/resume.md)   
+[Resume](https://github.com/ajayhk/ajayhk.github.io/tree/master/resume.md)   
    
-[PDF version of Resume](https://github.com/ajayhk/ajayhk.github.io/pdf/resume_no_addr.pdf)
+[PDF version of Resume](https://github.com/ajayhk/ajayhk.github.io/tree/master/pdf/resume_no_addr.pdf)
 
    
    
