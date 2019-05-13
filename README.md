@@ -1,1 +1,0 @@
-# ajayhk.github.io
