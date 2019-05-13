@@ -8,7 +8,7 @@ I work at Intel as a Principal Engineer in the Artificial Intelligence Product G
    
 Resume
 ------
-[Resume](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/resume.md)   
+[Resume](resume.md)   
    
 [PDF version of Resume](https://github.com/ajayhk/ajayhk.github.io/raw/master/pdf/resume_no_addr.pdf)
 
@@ -38,12 +38,9 @@ Side-projects
     
     <picture>
       <source type="image/webp" srcset="https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/images/robot.webp">
-      <img src="(https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/images/robotgif.jpg)" alt="In action!">
+      <img src="https://gfycat.com/GaseousEntireBat" alt="In action!">
     </picture>
     
-    
-    
-    [![Robot in action](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/images/robotgif.jpg)](https://gfycat.com/GaseousEntireBat)
    
     
 
