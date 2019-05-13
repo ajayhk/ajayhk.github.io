@@ -22,6 +22,7 @@ Binary Translation, Modeling/Simulations, H/w-S/w co-design. 10 patents
 **_Languages_**
 C/Modern C++, Python
 
+ 
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -56,14 +57,14 @@ RNNs/LSTMs, Transformer full-stack bring-up
 **Promoted to Manager** of system software team. Managed team of 8 software engineers + Product manager for two products that did malware detection (Return Oriented Programming/Stack Buffer Overflow attacks) using Control Flow Integrity (CFI) with Binary Translation (BT). One product used by McAfee for identifying malware and feeding into their virus definitions. Other product protects apps incl. Microsoft Office, Google Chrome, Firefox, Acrobat PDF viewer against many Zero-day attacks (e.g.[[3]](#_ftn3)). Detection
 tested on malware in VirusTotal, McAfee DB samples. **Performance overhead of Binary Translation reduced from 3-4x to 10%
 
-*       
+*    
 Tech lead (software dev/perf improvement) for multiple BT projects incl. Android malware detection, h/w BT. Created Perf Framework for identifying performance bottlenecks and regressions (not possible with tools like Intel VTune). **50% memory reduction and 2x perf speedup**
 
- 
+
 
 #### _Staff Software at Intel (2009-2012)_
 
-*       
+*    
 **Platform Architect** owning Power/Performance for Intel Mobile Platforms (Smartphones, Netbooks, Tablets) 
 
 *       
@@ -85,21 +86,21 @@ Modeling features including bringing up **two Partitions running Windows and Lin
 *       
 **EFI/BIOS Software Engineer** in Server BIOS team. Delivered **first ever EFI server BIOS** and future generations for various Intel Server Platforms released 2002-05
 
-
+ 
 
 #### _Senior Software Engineer at Virtio (startup acquired by Synopsys)(2000-2001)_
 
 *       
 Created Instruction Set Simulators (C/C++) with radical idea of creating and running simulation platforms in browsers
 
-
+ 
 
 #### _Senior Software Engineer at Philips Semiconductors (1999-2000)_
 
 *       
 Developed bit/cycle accurate, behavioral and functional simulation models for Processors including MIPS and DSP (C/C++ and Linux). First SystemC modeling of retargetable reconfigurable DSP[[5]](#_ftn5)
 
-
+ 
 
 #### _Senior Software Engineer at Accord Software (1997-1999)_
 
@@ -111,6 +112,7 @@ Automotive software (Ford and Mazda cars) (C/x86 Assembly)
 **Aeronautical
 Development Agency:** Mission Computer software/Avionics for Light Combat Aircraft[[6]](#_ftn6)(ADA/i386)
 
+ 
 
 ### EDUCATION & CERTIFICATIONS
 
