@@ -20,9 +20,9 @@ Side-projects
    
 Resume
 ------
-[Resume](https://github.com/ajayhk/ajayhk.github.io/tree/master/resume.md)   
+[Resume](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/resume.md)   
    
-[PDF version of Resume](https://github.com/ajayhk/ajayhk.github.io/tree/master/pdf/resume_no_addr.pdf)
+[PDF version of Resume](https://github.com/ajayhk/ajayhk.github.io/raw/master/pdf/resume_no_addr.pdf)
 
    
    
@@ -31,7 +31,7 @@ Resume
 Others:   
 ------
 
-1.  MS Dissertation: [EFI based lightweight Virtual Machine Manager (VMM)](ttps://github.com/ajayhk/ajayhk.github.io/pdf/EFI_VMM_MS_dissertation.pdf)
+1.  MS Dissertation: [EFI based lightweight Virtual Machine Manager (VMM)](https://github.com/ajayhk/ajayhk.github.io/raw/master/pdf/EFI_VMM_MS_dissertation.pdf)
 
    
    
