@@ -31,10 +31,10 @@ Side-projects
 *   Self Driving Robot   
     This was a project that I did around 2008 inspired by DARPA self driving project   
     It used sensors from [Phidgets](https://www.phidgets.com/) and I used OpenCV and IR sensors to detect and avoid obstacles      
+   
     ![Robot](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/images/robot.jpg "Self Driving Robot"   )
-
-    ![Robot in action!!](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/images/robot.avi)
-
+    
+    
 
    
    
