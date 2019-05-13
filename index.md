@@ -38,7 +38,7 @@ Side-projects
     
     <picture>
       <source type="image/webp" srcset="https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/images/robot.webp">
-      <img src="https://gfycat.com/GaseousEntireBat" alt="In action!">
+      <img src="images/robotgif.jpg" alt="Displays video in Chrome">
     </picture>
     
    
