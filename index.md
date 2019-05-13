@@ -19,7 +19,7 @@ Side-projects
 --------
    
 *   [Reddit Picture Downloader](https://github.com/ajayhk/reddit-downloader)    
-    Python script downloads pictures from posts in sub-reddits like /r/pics that include links from websites like Imgur, gfycat and others  
+    Python script to automatically download pictures from sub-reddits like pics or aww including links from Imgur, gfycat, etc.    
     
     
 
@@ -35,6 +35,7 @@ Side-projects
     ![Robot](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/images/robot.jpg "Self Driving Robot"   )
     
     
+    [![Robot in action](https://raw.githubusercontent.com/ajayhk/ajayhk.github.io/master/images/robotgif.jpg)](https://gfycat.com/GaseousEntireBat)
 
    
    
