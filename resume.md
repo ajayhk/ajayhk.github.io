@@ -1,4 +1,4 @@
-[Back]({{ https://ajayhk.github.io/ }}/)
+[Back](https://ajayhk.github.io)
     
     
     
@@ -163,4 +163,4 @@ Reddit image downloader (github)
     
     
     
-[Back]({{ https://ajayhk.github.io/ }}/)
+[Back](https://ajayhk.github.io)
