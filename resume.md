@@ -29,22 +29,22 @@ C/Modern C++, Python
 
 Distributed Deep Learning on Intel Nervana AI Training Chip[[1]](#_ftn1)
 
-·       
+*       
 Expert on Distributed Deep Learning including
 scaling, full-stack integration, performance and convergence 
 
-·       
+*       
 Tech-lead for system software team (10 member) owning
 **Distributed Training** incl. arch/design,
 code, collective kernels, Hw/Sw co-design, requirements, customer interaction,
 projections, roadmap, hiring
 
-·       
+*       
 Achieved **world-class
 scaling performance (95%)** on Data and Model Parallelism (Intel AI DevCon
 Keynote[[2]](#_ftn2))
 
-·       
+*       
 ML Frameworks (TensorFlow, PaddlePaddle), CNNs,
 RNNs/LSTMs, Transformer full-stack bring-up
 
@@ -52,62 +52,62 @@ RNNs/LSTMs, Transformer full-stack bring-up
 
 #### _Manager / Senior Staff S/w Engineer at Intel (2012-2016)_
 
-·       
+*       
 **Promoted to Manager** of system software team. Managed team of 8 software engineers + Product manager for two products that did malware detection (Return Oriented Programming/Stack Buffer Overflow attacks) using Control Flow Integrity (CFI) with Binary Translation (BT). One product used by McAfee for identifying malware and feeding into their virus definitions. Other product protects apps incl. Microsoft Office, Google Chrome, Firefox, Acrobat PDF viewer against many Zero-day attacks (e.g.[[3]](#_ftn3)). Detection
 tested on malware in VirusTotal, McAfee DB samples. **Performance overhead of Binary Translation reduced from 3-4x to 10%
 
-·       
+*       
 Tech lead (software dev/perf improvement) for multiple BT projects incl. Android malware detection, h/w BT. Created Perf Framework for identifying performance bottlenecks and regressions (not possible with tools like Intel VTune). **50% memory reduction and 2x perf speedup**
 
  
 
 #### _Staff Software at Intel (2009-2012)_
 
-·       
+*       
 **Platform Architect** owning Power/Performance for Intel Mobile Platforms (Smartphones, Netbooks, Tablets) 
 
-·       
+*       
 Owned System performance in Platform Architecture team for Intel tablets/phones. Performance projections (for CPU, Gfx, Memory) on Intel and competitive platforms using in-depth architectural knowledge, simulations, experiments 
 
-·       
+*       
 Created SDV for graphics driver development with FPGA emulator with Qemu and bus functional model (BFM)
 
  
 
 #### _Senior Software Engineer at Intel (2002-2008)_
 
-·       
+*       
 **Research Scientist** in Intel Labs researching on System Architecture including System Partitioning & Security including early version of Intel SGX[[4]](#_ftn4)
 
-·       
+*       
 Modeling features including bringing up **two Partitions running Windows and Linux in parallel** on same desktop
 
-·       
+*       
 **EFI/BIOS Software Engineer** in Server BIOS team. Delivered **first ever EFI server BIOS** and future generations for various Intel Server Platforms released 2002-05
 
 
 
 #### _Senior Software Engineer at Virtio (startup acquired by Synopsys)(2000-2001)_
 
-·       
+*       
 Created Instruction Set Simulators (C/C++) with radical idea of creating and running simulation platforms in browsers
 
 
 
 #### _Senior Software Engineer at Philips Semiconductors (1999-2000)_
 
-·       
+*       
 Developed bit/cycle accurate, behavioral and functional simulation models for Processors including MIPS and DSP (C/C++ and Linux). First SystemC modeling of retargetable reconfigurable DSP[[5]](#_ftn5)
 
 
 
 #### _Senior Software Engineer at Accord Software (1997-1999)_
 
-·       
+*       
 **Hewlett Packard:**
 Automotive software (Ford and Mazda cars) (C/x86 Assembly) 
 
-·       
+*       
 **Aeronautical
 Development Agency:** Mission Computer software/Avionics for Light Combat Aircraft[[6]](#_ftn6)(ADA/i386)
 
