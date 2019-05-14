@@ -2,8 +2,8 @@ Ajay Harikumar
 ===========
 
 
-I work at Intel as a Principal Engineer in the Artificial Intelligence Product Group's System Software team   
-   
+**I work at Intel as a Principal Engineer in the Artificial Intelligence Product Group team**    
+I work in the field of Distributed Deep Learning and have 20+ years of software experience and 10 patents   
 
    
 Resume
